@@ -21,23 +21,21 @@
     /* #ffffff in decimal RGB */
     --white-color: rgb(255, 255, 255);
     /* #18312e in decimal RGB */
-    /* --color-one: rgb(24, 49, 46); */
-    --color-one: #10002b;
+    --color-one: rgb(24, 49, 46);
     /* #152c29 in decimal RGB */
-    /* --color-two: rgb(21, 44, 41); */
-    --color-two: #240046;
+    --color-two: rgb(21, 44, 41);
     /* #a7a7a7 in decimal RGB - for gray text */
-    --color-three: #3c096c;
+    --color-three: rgb(167, 167, 167);
     /* #5e6f6d in decimal RGB - border */
-    --color-four: #5a189a;
+    --color-four: rgb(94, 111, 109);
     /* #0e0d0c in decimal RGB */
-    --color-five: #7b2cbf;
+    --color-five: rgb(14, 13, 12);
     /* #1a1b1c in decimal RGB */
-    --color-six: #9d4edd;
+    --color-six: rgb(26, 27, 28);
     /* #151616 in decimal RGB */
-    --color-seven: #c77dff;
+    --color-seven: rgb(21, 22, 22);
     /* #121111 in decimal RGB */
-    --color-eight: #e0aaff;
+    --color-eight: rgb(18, 17, 17);
     /* #ffffff in decimal RGBA */
     --white-color-opacity: rgba(255, 255, 255, 0.80);
     /* #ffffff in decimal RGBA Two */
@@ -61,9 +59,9 @@
     /* #000000 in decimal RGBA Five */
     --black-color-opacity-five: rgba(0, 0, 0, 0.10);
     /* #ffffff in decimal RGB */
-    --text-color: #ffffff;
+    --text-color: rgb(255, 255, 255);
     /* #010101 Heading Color in decimal RGB */
-    --heading-color: #c1121f;
+    --heading-color: rgb(255, 255, 255);
     /* Fonts Variable */
     --font-family-Urbanist: "Urbanist", sans-serif;
     --font-family-Fraunces: "Fraunces", serif;
